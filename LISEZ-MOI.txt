@@ -1,0 +1,2 @@
+Ce fichier RAR contient notre travail, nous avons implementé la methode LTP avec la distance euclidean et avec la "Distance transform" 
+les deux versions de projet sont identique, la seule difference est la maniere de calculer la similarité entre une requette et les images de la base.
